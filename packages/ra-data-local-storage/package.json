@@ -38,7 +38,7 @@
     },
     "dependencies": {
         "lodash": "~4.17.5",
-        "ra-data-fakerest": "^5.9.1"
+        "ra-data-fakerest": "^2.0.0"
     },
     "devDependencies": {
         "cross-env": "^5.2.0",
