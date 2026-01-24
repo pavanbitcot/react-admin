@@ -41,10 +41,10 @@
         "@emotion/styled": "^11.14.0",
         "@mui/icons-material": "^5.16.12 || ^6.0.0 || ^7.0.0",
         "@mui/material": "^5.16.12 || ^6.0.0 || ^7.0.0",
-        "ra-core": "^5.9.1",
+        "ra-core": "^2.0.0",
         "ra-i18n-polyglot": "^5.9.1",
         "ra-language-english": "^5.9.1",
-        "ra-ui-materialui": "^5.9.1",
+        "ra-ui-materialui": "^2.0.0",
         "react-hook-form": "^7.53.0",
         "react-router": "^6.28.1 || ^7.1.1",
         "react-router-dom": "^6.28.1 || ^7.1.1"
