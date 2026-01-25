@@ -35,9 +35,9 @@
     "dependencies": {
         "@apollo/client": "^3.3.19",
         "graphql-ast-types-browser": "~1.0.2",
-        "lodash": "~4.17.5",
+        "lodash": "~4.17.23",
         "pluralize": "~7.0.0",
-        "ra-data-graphql": "^5.9.1"
+        "ra-data-graphql": "^2.0.0"
     },
     "peerDependencies": {
         "graphql": "^15.6.0",
