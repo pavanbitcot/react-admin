@@ -41,8 +41,8 @@
     },
     "dependencies": {
         "localforage": "^1.7.1",
-        "lodash": "~4.17.5",
-        "ra-data-fakerest": "^5.9.1"
+        "lodash": "~4.17.23",
+        "ra-data-fakerest": "^5.0.0"
     },
     "devDependencies": {
         "cross-env": "^5.2.0",
